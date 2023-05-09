@@ -5,7 +5,8 @@
 
 #### 作者
 Weihua Kwong 
-w00waykwong@gmail.com
+
+邮箱：w00waykwong@gmail.com
 
 #### 分支说明
 1.  Finished分支 是最终版本的源文件，请下载该分支内文件
