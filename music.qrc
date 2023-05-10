@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>Music/ReflectionEternal.mp3</file>
-        <file>Music/thatMoon.mp3</file>
-        <file>Music/WishYouWereHere.mp3</file>
-    </qresource>
-</RCC>
